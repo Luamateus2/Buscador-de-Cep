@@ -19,7 +19,7 @@ Este é um projeto simples de buscador de CEP utilizando React.js e a API do Via
 
 ### 1. Clonar o Repositório
 ```bash
- git clone https://github.com/seu-usuario/buscador-cep.git
+ git clone https://github.com/Luamateus2/Buscador-de-Cep.git
 ```
 
 ### 2. Instalar as Dependências
@@ -39,7 +39,6 @@ O projeto estará rodando em `http://localhost:3000`
 
 ```
 ├── src
-│   ├── components
 │   ├── services
 │   │   ├── api.js (Configuração do Axios para consumir a API do ViaCEP)
 │   ├── style.css (Estilização do projeto)
@@ -54,11 +53,6 @@ O projeto utiliza a API gratuita do ViaCEP para buscar os dados de um CEP:
 https://viacep.com.br/ws/{CEP}/json/
 ```
 
-## Possíveis Melhorias
-- Adicionar tratamento de erros mais detalhado.
-- Implementar um loader para indicar o carregamento dos dados.
-- Melhorar a interface com uma estilização aprimorada.
-
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias. Basta seguir os passos:
 1. Faça um fork do projeto.
@@ -68,4 +62,10 @@ Sinta-se à vontade para contribuir com melhorias. Basta seguir os passos:
 
 ## Licença
 Este projeto está sob a licença MIT.
+
+
+## Possíveis Melhorias
+- Adicionar tratamento de erros mais detalhado.
+- Implementar um loader para indicar o carregamento dos dados.
+- Melhorar a interface com uma estilização aprimorada.
 
