@@ -64,8 +64,4 @@ Sinta-se à vontade para contribuir com melhorias. Basta seguir os passos:
 Este projeto está sob a licença MIT.
 
 
-## Possíveis Melhorias
-- Adicionar tratamento de erros mais detalhado.
-- Implementar um loader para indicar o carregamento dos dados.
-- Melhorar a interface com uma estilização aprimorada.
 
